@@ -1,0 +1,20 @@
+.banner-bg,.header-bg{
+    background:linear-gradient(160deg, #ffe08221, #ffeb3b2e);
+}
+.banner-p{
+    font-size: 15px;
+}
+.nav-link{
+    color: black !important;
+    font-weight: bold;
+}
+.card-img{
+    background: #d3d1d1;
+    border-radius: 10px;
+    height: 60%;
+}
+.card-p{
+    font-size: 12px;
+    
+}
+
